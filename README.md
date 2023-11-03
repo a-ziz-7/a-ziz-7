@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Aziz!
+# Hi there 👋🌍, I'm Aziz!
 
 ### 🎓 I'm a computer science student at Brooklyn College, passionate about coding, problem-solving, and all things tech.
 
@@ -6,7 +6,7 @@
 
 ### 🌟 My GitHub is where I share my projects, algorithms, experiments, and contributions to the open-source community. Whether it's coding challenges, personal projects, or collaborative efforts, you'll find them all here.
 
-### Skills: Python / Java / JavaScript / HTML / CSS / MATLAB
+### Skills: Python / Java / JavaScript / HTML / CSS / SQL / MATLAB
 
 ### 🚀 Let's connect, collaborate, and learn together in this exciting world of software development!
 
