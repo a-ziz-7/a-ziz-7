@@ -14,6 +14,4 @@
 
 #### 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/aziz-abdusamiev/) to explore my professional journey and stay updated on my latest projects.
 
-**- 🔭 I’m currently working on this page.**
-
 ### Happy coding! 👨‍💻
