@@ -10,7 +10,7 @@
 
 #### 🚀 Let's connect, collaborate, and learn together in this exciting world of software development!
 
-#### 📫 Feel free to reach out to me if you want to discuss anything related to computer science or just have a friendly chat. I'm always eager to connect with fellow developers and learn from their experiences.
+#### 📫 Feel free to reach out to me if you want to discuss anything related to computer science or just have a friendly chat. I'm always eager to connect with fellow developers and learn from their experiences. 
 
 #### 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/aziz-abdusamiev/) to explore my professional journey and stay updated on my latest projects!
 
