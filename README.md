@@ -4,7 +4,7 @@
 
 #### 💻 My journey in the world of computer science is a constantly evolving adventure. I'm always exploring new technologies and seeking to expand my knowledge.
  
-#### 🌟 My GitHub is where I share my projects, algorithms, experiments, and contributions to the open-source community. Whether it's coding challenges, personal projects, or collaborative efforts, you'll find them all here.
+#### 🌟 My GitHub is where I share my projects, algorithms, experiments, an d contributions to the open-source community. Whether it's coding challenges, personal projects, or collaborative efforts, you'll find them all here.
 
 #### Skills: Python / Java / JavaScript / HTML / CSS / SQL / C++ / MATLAB
 
