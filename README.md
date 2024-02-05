@@ -1,4 +1,4 @@
-# 👋🌍,  I'm Aziz! 
+# 👋🌍,  I'm Aziz!  
  
 #### 🎓 I'm a computer science student at Brooklyn College, passionate about coding, problem-solving, and all things tech. 
 
