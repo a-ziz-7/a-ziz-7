@@ -6,7 +6,22 @@
   
 #### 🌟 My GitHub is where I share my projects, algorithms, experiments, an d contributions to the open-source community. Whether it's coding challenges, personal projects, or collaborative efforts, you'll find them all here.
 
-#### Skills: Python ![](https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_32x32.png)/ Java ![](https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java_32x32.png)/ JavaScript ![](https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_32x32.png)/ HTML ![](https://github.com/abranhe/programming-languages-logos/blob/master/src/html/html_32x32.png)/ CSS ![](https://github.com/abranhe/programming-languages-logos/blob/master/src/css/css_32x32.png)/ SQL / C++ / MATLAB
+#### Skills:
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/python.svg" alt="Python Logo" width="100" height="100" style="margin-right: 10px;">
+    <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/java.svg" alt="Java Logo" width="100" height="100" style="margin-right: 10px;">
+    <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/c%23.svg" alt="C# Logo" width="100" height="100" style="margin-right: 10px;">
+    <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/javascript.svg" alt="JavaScript Logo" width="100" height="100" style="margin-right: 10px;">
+    <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/html.svg" alt="HTML Logo" width="100" height="100" style="margin-right: 10px;">
+    <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/css.svg" alt="CSS Logo" width="100" height="100" style="margin-right: 10px;">
+    <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/postgresql.svg" alt="PostgreSQL Logo" width="100" height="100" style="margin-right: 10px;">
+    <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/mysql.svg" alt="MySQL Logo" width="100" height="100" style="margin-right: 10px;">
+    <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/c%2B%2B.svg" alt="C++ Logo" width="100" height="100" style="margin-right: 10px;">
+<!--     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R Logo" width="100" height="100" style="margin-right: 10px;">
+    <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/bash.svg" alt="Bash Logo" width="100" height="100" style="margin-right: 10px;">
+    <img src="https://1000logos.net/wp-content/uploads/2021/04/MATLAB-logo.png" alt="MATLAB Logo" width="100" height="100" style="margin-right: 10px;"> -->
+</div>
+
 
 #### 📫 Feel free to reach out to me if you want to discuss anything related to computer science or just have a friendly chat. I'm always eager to connect with fellow developers and learn from their experiences.
 
