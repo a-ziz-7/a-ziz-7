@@ -15,7 +15,7 @@
     <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/html.svg" alt="HTML Logo" width="100" height="100" style="margin-right: 10px;">
     <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/css.svg" alt="CSS Logo" width="100" height="100" style="margin-right: 10px;">
     <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/postgresql.svg" alt="PostgreSQL Logo" width="100" height="100" style="margin-right: 10px;">
-    <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/mysql.svg" alt="MySQL Logo" width="100" height="100" style="margin-right: 10px;">
+<!--     <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/mysql.svg" alt="MySQL Logo" width="100" height="100" style="margin-right: 10px;"> -->
     <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/c%2B%2B.svg" alt="C++ Logo" width="100" height="100" style="margin-right: 10px;">
 <!--     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R Logo" width="100" height="100" style="margin-right: 10px;">
     <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/bash.svg" alt="Bash Logo" width="100" height="100" style="margin-right: 10px;">
