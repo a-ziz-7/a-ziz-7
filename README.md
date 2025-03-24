@@ -12,11 +12,11 @@
     <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/java.svg" alt="Java Logo" width="100" height="100" style="margin-right: 10px;">
     <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/c%23.svg" alt="C# Logo" width="100" height="100" style="margin-right: 10px;">
     <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/javascript.svg" alt="JavaScript Logo" width="100" height="100" style="margin-right: 10px;">
+      <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/c%2B%2B.svg" alt="C++ Logo" width="100" height="100" style="margin-right: 10px;">
     <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/html.svg" alt="HTML Logo" width="100" height="100" style="margin-right: 10px;">
     <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/others/css.svg" alt="CSS Logo" width="100" height="100" style="margin-right: 10px;">
     <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/postgresql.svg" alt="PostgreSQL Logo" width="100" height="100" style="margin-right: 10px;">
 <!--     <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/databases/mysql.svg" alt="MySQL Logo" width="100" height="100" style="margin-right: 10px;"> -->
-    <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/c%2B%2B.svg" alt="C++ Logo" width="100" height="100" style="margin-right: 10px;">
 <!--     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R Logo" width="100" height="100" style="margin-right: 10px;">
     <img src="https://github.com/bablubambal/All_logo_and_pictures/blob/main/programming%20languages/bash.svg" alt="Bash Logo" width="100" height="100" style="margin-right: 10px;">
     <img src="https://1000logos.net/wp-content/uploads/2021/04/MATLAB-logo.png" alt="MATLAB Logo" width="100" height="100" style="margin-right: 10px;"> -->
