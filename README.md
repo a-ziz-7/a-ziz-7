@@ -1,10 +1,10 @@
 # 👋🌍,  I'm Aziz
       
-#### 🎓 I'm a computer science student at Brooklyn College, and I am passionate about coding, problem-solving, and tech. 
+#### 🎓 I'm a computer science student at Brooklyn College and am passionate about coding, problem-solving, and tech. 
 
 #### 💻 My journey in the world of computer science is a constantly evolving adventure. I'm always exploring new technologies and seeking to expand my knowledge.
   
-#### 🌟 My GitHub is where I share my projects, algorithms, experiments, and contributions to the open-source community. You'll find them all here whether it's coding challenges, personal projects, or collaborative efforts.
+#### 🌟 My GitHub is where I share my projects, algorithms, experiments, and contributions to the open-source community. You'll find them all here, whether it's coding challenges, personal projects, or collaborative efforts.
 
 #### Skills:
 <div style="display: flex; flex-wrap: wrap;">
