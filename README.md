@@ -1,6 +1,6 @@
-# 👋🌍,  I'm Aziz!   
+# 👋🌍,  I'm Aziz
       
-#### 🎓 I'm a computer science student at Brooklyn College, passionate about coding, problem-solving, and tech. 
+#### 🎓 I'm a computer science student at Brooklyn College, and I am passionate about coding, problem-solving, and tech. 
 
 #### 💻 My journey in the world of computer science is a constantly evolving adventure. I'm always exploring new technologies and seeking to expand my knowledge.
   
